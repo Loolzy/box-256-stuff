@@ -1,5 +1,5 @@
 # box-256-stuff
-just playing with box-256.com
+just playing with [box-256.com](http://box-256.com/)
 
 | Name  | Cycles | LOC |
 | ------------- | ------------- | ------------- |
